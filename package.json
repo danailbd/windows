@@ -10,7 +10,7 @@
         "ref": "1",
         "ref-struct": "1",
         "ref-array": "1.1.2",
-        "universal": "GPII/universal#3967973ed799e85cbe54c3099ebee2190501c352"
+        "universal": "git://github.com/amb26/universal.git#GPII-2383"
     },
     "devDependencies": {
         "grunt": "1.0.1",
